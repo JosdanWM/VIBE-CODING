@@ -5,22 +5,32 @@
 ---
 
 ## **Introducción al Vibe Coding**
+- Conceptos fundamentales de IA
+  <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
+- Prompt Engineering - HM ....
+  <!--[Academia Hola Mundo]()-->
+- Fundamentos del prompt engineering
+  <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
+- Fundamentos de prompt engineering en programación
+  <!--Elaborado en: claude.ai (Teoría) y gemini.google.com--> 
+
+
+
+## **Fundamentos del Vibe Coding**
+- Conceptos fundamentales de Vibe Coding
+  <!--Elaborado en: claude.ai (Teoría) y gemini.google.com-->
+
+## **Fundamentos del Desarrollo Web para Vibe Coding**
+- Fundamentos del Desarrollo Web para Vibe Coding (U)....
+  <!--[Curso Udemy](https://www.udemy.com/course/master-desarrollo-web-pre-ia-fundamentos-para-hacer-vibe-coding/learn/lecture/54938827?      start=1#overview)-->
 - 
+
+
 
 
 ## **Vibe Coding**
 - 
 
-
-## **Fundamentos del Vibe Coding**
-- Fundamentos del Desarrollo Web para Vibe Coding ....
-<!--[Curso Udemy](https://www.udemy.com/course/master-desarrollo-web-pre-ia-fundamentos-para-hacer-vibe-coding/learn/lecture/54938827?start=1#overview)-->
-
-
-## **Introducción al Prompt Engineering**
-- Prompt Engineering - HM ....
-<!--[Academia Hola Mundo]()-->
-- 
 
 
 ---
